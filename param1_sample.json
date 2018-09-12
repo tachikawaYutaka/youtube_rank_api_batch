@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://www.googleapis.com/youtube/v3/videos",
+  "params": "chart=mostPopular&part=snippet",
+  "regionCode":"JP",
+  "videoCategoryId":"categoryId",
+  "key": "apiKey"
+}
