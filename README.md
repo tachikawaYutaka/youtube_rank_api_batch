@@ -4,7 +4,7 @@ mvn package
 ```
 
 ```
-java -jar youtube_rank_api_batch-v1.0.jar "save_dir" "save_file_name.json"
+java -jar youtube_rank_api_batch-v1.0.jar param1.json "save_dir" "save_file_name.json"
 ```
 
 ## param1 
